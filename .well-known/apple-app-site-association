@@ -3,8 +3,8 @@
     "apps": [],
     "details": [
       {
-        "appID": "TEAM_ID.bundleID",
-        "paths": ["/path/*"]
+        "appID": "K2APH36C6M.com.UniversalLinkTestApp",
+        "paths": ["*"]
       }
     ]
   }
